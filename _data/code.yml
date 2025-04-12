@@ -26,4 +26,4 @@ repos:
       - text: "Code & Data"
         url: https://github.com/ichittumuri/Establishment-and-Analysis-of-Baseline-Electrical-Data
     description: This project established baseline conditions for energy use and greenhouse gas emissions for participants in the Thermalize Juneau initiative, supporting the city's goal of achieving 80% renewable energy for heating and transportation sectors by 2045.
-    image_path: /images/baseline_electrical_data.png
+    image_path: /images/baseline_electrical_data.png  
