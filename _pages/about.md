@@ -5,18 +5,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-# classes: splash
+classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/nyc_skyline_cropped.jpg
-    overlay_filter: 0.2
-    height: 600px
+    overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
-
 
 
 CV
 ------
-[CV](https://ichittumuri.github.io/files/Isabella_Chittumuri_CV_FULL.pdf)
+[CV](https://wsdaniels.github.io/files/william_daniels_CV_full.pdf)
 
 Education
 ------
