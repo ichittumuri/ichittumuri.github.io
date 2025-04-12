@@ -5,11 +5,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: splash
+# classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/nyc_skyline.jpg
+    overlay_image: https://ichittumuri.github.io/images/nyc_skyline_cropped.jpg
     overlay_filter: 0.2
-    height: 500px
+    height: 600px
 ---
 
 
