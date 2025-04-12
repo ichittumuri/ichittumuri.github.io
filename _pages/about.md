@@ -8,6 +8,7 @@ redirect_from:
 classes: splash
 header:
     overlay_image: https://ichittumuri.github.io/images/nyc_skyline_cropped.jpg
+    height: 600px
 ---
 
 
