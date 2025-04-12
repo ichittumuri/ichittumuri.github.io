@@ -1,24 +1,29 @@
 repos:
 
-  - title: "Probabilistic duration model (PDM)"
+  - title: "Risk Analysis of Flowlines"
     links:
       - text: "Code & Data"
-        url: https://github.com/wsdaniels/CMS-durations
-    description: Code and data used in <a href="https://doi.org/10.1021/acs.estlett.4c00687">Daniels et al., <em>ES&T Letters</em>, (2024)</a>. 
-    image_path: /images/PDM.png
+        url: https://github.com/ichittumuri/SPE_Journal_Risk_Analysis_of_Flowlines
+    description: GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
+    image_path: /images/flowline_risk.png
 
-  - title: "Detection, localization, and quantification (DLQ) model"
+  - title: "Snow Variability in Northeast Alaska"
     links:
       - text: "Code & Data"
-        url: https://github.com/wsdaniels/DLQ
-    description: Code and data used in <a href="https://doi.org/10.1525/elementa.2023.00110">Daniels et al., <em>Elementa</em>, (2024)</a>. 
-    image_path: /images/DLQ.png
+        url: https://github.com/ichittumuri/Evaluate-Snow-Variability-through-a-Climatological-Analysis-in-Northeast-Alaska
+    description: Code and data used in <a href="https://ntrs.nasa.gov/citations/20230006051">Anderson et al., <em>NASA Technical Report</em>, (2023)</a>. This project evaluates snow variability in Northeast Alaska through remote sensing and climatological data analysis as part of the NASA DEVELOP program.
+    image_path: /images/northeast_alaska_snow.png
 
-  - title: "Modeling fire season intensity"
+  - title: "Hurricane Irma Impacts on Georgia Heirs' Property Owners"
     links:
-      - text: Data
-        url: https://doi.org/10.5065/s6rv-rc57
-      - text: Code
-        url: https://github.com/wsdaniels/COmodeling
-    description: Code and data used in <a href="https://doi.org/10.1029/2022JD036774">Daniels et al., <em>JGR Atmospheres</em>, (2022)</a>. The data set includes a time series of five different climate indices and atmospheric carbon monoxide averaged over the Maritime Continent. The code is split into two scripts. The first builds a data matrix of lagged climate index values. The second regresses the atmospheric carbon monoxide time series on the lagged climate indices using regularization for model selection. 
-    image_path: /images/co_modeling.png
+      - text: "Code & Data"
+        url: https://github.com/ichittumuri/Evaluate-Impacts-of-Hurricane-Irma-on-Georgia-Heirs-Property-Owners
+    description: Code and data used in <a href="https://ntrs.nasa.gov/citations/20230002491">Chittumuri et al., <em>NASA Technical Report</em>, (2023)</a>. This project examines the social vulnerability and storm impact patterns experienced by heirs' property owners in Georgia following Hurricane Irma, using geospatial and census-based data analysis.
+    image_path: /images/georgia_heirs_property.png
+
+- title: "Establishment and Analysis of Baseline Electrical Data"
+    links:
+      - text: "Code & Data"
+        url: https://github.com/ichittumuri/Establishment-and-Analysis-of-Baseline-Electrical-Data
+    description: Code and data used in Stevens et al., <em>ASHRAE Topical Conference Proceedings</em>, (2021). This project established baseline conditions for energy use and greenhouse gas emissions for participants in the Thermalize Juneau initiative, supporting the city's goal of achieving 80% renewable energy for heating and transportation sectors by 2045.
+    image_path: /images/baseline_electrical_data.png
