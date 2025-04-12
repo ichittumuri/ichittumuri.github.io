@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/nyc_skyline_cropped.jpg
+    overlay_image: https://ichittumuri.github.io/images/nyc_banner_wide.jpg
     height: 600px
 ---
 
