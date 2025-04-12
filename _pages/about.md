@@ -8,7 +8,10 @@ redirect_from:
 classes: splash
 header:
     overlay_image: https://ichittumuri.github.io/images/nyc_skyline.jpg
+    overlay_filter: 0.2
+    height: 500px
 ---
+
 
 
 CV
