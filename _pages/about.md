@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: splash
+# classes: splash
 header:
     overlay_image: https://ichittumuri.github.io/images/nyc_banner_wide.jpg
     height: 600px
@@ -28,4 +28,4 @@ I'm currently a Ph.D. candidate in the [Department of Applied Mathematics and St
 
 I’ve had the opportunity to collaborate with organizations like NASA, NREL, and the Alaska Center for Energy and Power on projects ranging from Arctic snow variability to renewable energy adoption. Fieldwork plays a central role in my work—I've collected glacier data with the Juneau Icefield Research Program, analyzed snowpack in the French Alps through the WSL-SLF Snow School, and participated in remote expeditions across Alaska’s tundra, rivers, and mountain terrain.
 
-From subway tunnels in Manhattan to icefields in Alaska and mountain towns in Colorado, I’ve found meaning in working across scales and settings. Outside of research, I love tennis, swimming, and alpine adventures—and I’m always up for a good board game or book!
+From subway tunnels in New York City to icefields in Alaska and mountain towns in Colorado, I’ve found meaning in working across scales and settings. Outside of research, I love tennis, swimming, and alpine adventures—and I’m always up for a good board game or book!
