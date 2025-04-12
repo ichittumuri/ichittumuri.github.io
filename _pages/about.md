@@ -1,14 +1,30 @@
 ---
+title: "Home"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: splash
+header:
+    overlay_image: https://wsdaniels.github.io/images/longs.jpeg
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-This is Izz's website
+CV
+------
+[CV](https://ichittumuri.github.io/files/Isabella_Chittumuri_CV_FULL.pdf)
+
+Education
+------
+Ph.D. Applied Mathematics and Statistics, Colorado School of Mines, Expected 2026 \\
+M.A. Applied Mathematics and Statistics, Hunter College, City University of New York, 2022 \\
+B.A. Statistics, Hunter College, City University of New York, 2020
+
+About Me
+------
+I'm currently a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines, where I use geospatial analysis, machine learning, and statistical modeling to tackle environmental and infrastructure challenges. My research focuses on risk analysis of oil and gas spills, snow and sea ice remote sensing, and climate adaptation strategies in cold regions. I aim to develop data-driven approaches to identify climate vulnerabilities, inform adaptation strategies, and support community resilience.
+
+I’ve had the opportunity to collaborate with organizations like NASA, NREL, and the Alaska Center for Energy and Power on projects ranging from Arctic snow variability to renewable energy adoption. Fieldwork plays a central role in my work—I've collected glacier data with the Juneau Icefield Research Program, analyzed snowpack in the French Alps through the WSL-SLF Snow School, and participated in remote expeditions across Alaska’s tundra, rivers, and mountain terrain.
+
+From subway tunnels in Manhattan to icefields in Alaska and mountain towns in Colorado, I’ve found meaning in working across scales and settings. Outside of research, I love tennis, swimming, and alpine adventures—and I’m always up for a good board game or book!
