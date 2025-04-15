@@ -21,7 +21,7 @@ repos:
     description: Code and data used in <a href="https://ntrs.nasa.gov/citations/20230002491">Chittumuri et al., <em>NASA Technical Report</em>, (2022)</a>. This project examines the social vulnerability and storm impact patterns experienced by heirs' property owners in Georgia following Hurricane Irma, using geospatial and census-based data analysis.
     image_path: /images/georgia_heirs_property.png
 
-- title: "Establishment and Analysis of Baseline Electrical Data"
+  - title: "Establishment and Analysis of Baseline Electrical Data"
     links:
       - text: "Code & Data"
         url: https://github.com/ichittumuri/Establishment-and-Analysis-of-Baseline-Electrical-Data
