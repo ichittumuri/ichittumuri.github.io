@@ -8,7 +8,7 @@ redirect_from:
 # classes: splash
 # From subway tunnels in New York City to icefields in Alaska and mountain towns in Colorado, I’ve found meaning in working across scales and settings. 
 header:
-    overlay_image: https://ichittumuri.github.io/images/nyc_skyline.jpg
+    overlay_image: nyc_skyline_banner.jpg
 ---
 
 
