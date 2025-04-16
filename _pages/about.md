@@ -24,7 +24,7 @@ B.A. Statistics, Hunter College, City University of New York, 2020
 
 About Me
 ------
-I'm currently a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines, where I use geospatial analysis, machine learning, and statistical modeling to tackle environmental and infrastructure challenges. My research focuses on risk analysis of oil and gas spills, snow and sea ice remote sensing, and climate adaptation strategies in cold regions. I aim to develop data-driven tools that help identify climate vulnerabilities, support community resilience, and guide adaptation planning in glacier- and snow-dependent environments.
+I'm currently a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines, where I use geospatial analysis, machine learning, and statistical modeling to tackle environmental and infrastructure challenges. My research focuses on risk analysis of oil and gas spills, snow and sea ice remote sensing, and climate adaptation strategies in cold regions.
 
 I've collaborated with organizations like NASA, NREL, and the Alaska Center for Energy and Power on projects ranging from Arctic snow variability to renewable energy adoption. Fieldwork plays a central role in my work—I've collected glacier data with the Juneau Icefield Research Program, analyzed snowpack in the French Alps through the WSL-SLF Snow School, and participated in remote expeditions across Alaska’s tundra, rivers, and mountain terrain.
 
