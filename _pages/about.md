@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/IMG_5432.jpg
+    overlay_image: https://ichittumuri.github.io/images/clouds.jpg
 ---
 
 

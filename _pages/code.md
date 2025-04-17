@@ -4,7 +4,7 @@ permalink: /code/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/DSCF0865_Original.jpg
+    overlay_image: https://ichittumuri.github.io/images/nyc_sunset.jpeg
 
 ---
 

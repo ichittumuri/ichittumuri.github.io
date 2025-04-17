@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/DSC_0385_Original.jpg
+    overlay_image: https://ichittumuri.github.io/images/gilkey_glacier.jpg
 ---
 
 {% for category in site.data.papers.categories %}

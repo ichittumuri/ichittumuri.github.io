@@ -4,7 +4,7 @@ permalink: /posters/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/IMG_0191_Original.jpg.jpg
+    overlay_image: https://ichittumuri.github.io/images/taku_towers.jpg
 ---
 
 {% for category in site.data.posters.categories %}
