@@ -9,11 +9,11 @@ main:
   - title: Posters
     url: /posters/
 
-  - title: Code & Data
-    url: /code/
-
   - title: Field Work
     url: /field/
+
+  - title: Code & Data
+    url: /code/
 
   - title: CV
     url: https://ichittumuri.github.io/files/Isabella_Chittumuri_CV_FULL.pdf

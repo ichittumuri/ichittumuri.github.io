@@ -4,7 +4,7 @@ permalink: /posters/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://wsdaniels.github.io/images/seattle.jpg
+    overlay_image: https://ichittumuri.github.io/images/IMG_0191_Original.jpg.jpg
 ---
 
 {% for category in site.data.posters.categories %}
