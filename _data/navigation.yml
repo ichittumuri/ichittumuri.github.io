@@ -3,14 +3,17 @@ main:
   - title: Papers
     url: /papers/
 
-  - title: Talks
-    url: /talks/
+  # - title: Talks
+  #  url: /talks/
 
   - title: Posters
     url: /posters/
 
   - title: Code & Data
     url: /code/
+
+  - title: Field Work
+    url: /field/
 
   - title: CV
     url: https://ichittumuri.github.io/files/Isabella_Chittumuri_CV_FULL.pdf
