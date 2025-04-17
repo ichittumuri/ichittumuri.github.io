@@ -4,39 +4,28 @@ permalink: /fieldwork/
 author_profile: true
 classes: splash
 header:
-    overlay_image: https://ichittumuri.github.io/images/traverse.jpeg
-
+  overlay_image: https://ichittumuri.github.io/images/traverse.jpg
 ---
 
 <div>
-	{% for repo in site.data.fieldwork.repos %}
-  <h2>{{repo.title}}</h2>
-  {% if repo.image_path %}
-	<div id="chartContainer">
-		<a href=
-            {% if repo.links[0].url contains "://" %}
-              "{{ repo.links[0].url }}"
-            {% else %}
-              "{{ repo.links[0].url | relative_url }}"
-            {% endif %}
-            title="{{ repo.title }}"
+  {% for exp in site.data.fieldwork.repos %}
+    <h2>{{ exp.title }}</h2>
+
+    {% if exp.dates %}
+      <p><strong>{{ exp.dates.start }} — {{ exp.dates.end }}</strong></p>
+    {% endif %}
+
+    {% if exp.image_path %}
+      <div class="thumb-container">
+        <img
+          class="thumb"
+          src="{{ exp.image_path | relative_url }}"
+          alt="{{ exp.title }}"
         >
-        <img class="thumb" src=
-          {% if repo.image_path contains "://" %}
-            "{{ repo.image_path }}"
-          {% else %}
-            "{{ repo.image_path | relative_url }}"
-          {% endif %}
-          alt="{{ repo.title }}">
-        </a>
-  </div> 
-  {% endif %}
-  <p>{{repo.description}}
-    <br>
-  {% for link in repo.links %}
-    [<a href="{{link.url}}">{{link.text}}</a>]
+      </div>
+    {% endif %}
+
+    <p>{{ exp.description | markdownify }}</p>
+    <hr>
   {% endfor %}
-  </p>
-	{% endfor %}
 </div>
-		

@@ -1,20 +1,37 @@
 repos:
 
-  - title: "Juneau Icefield Research Program"
-    links:
-      - text: "Gallery"
-        # url: "/images/jirp_fieldwork.png"
+  - title: "Snow Science Winter School (SSWS)"
+    dates:
+      start: "Feb. 23 2025"
+      end:   "Mar. 1 2025"
     description: >
-      Summer 2024: Participated in the Juneau Icefield Research Program in Alaska—
-      collected ice cores, ran stress–strain analyses on the Van Leuwen Ice Fall,
-      and mapped glacial movement patterns.
-    image_path: /images/jirp_fieldwork.png
+      Student at the Institute for Snow and Avalanche Research (WSL‑SLF).  
+      Conducted snowpack fieldwork at Col du Lautaret (2 058 m), performing penetration resistance, density, and specific surface area measurements using SnowMicroPen, DUFISSS, IceCube, and density cutters. Processed and visualized snowpack simulations, atmospheric data, and snow properties using Crocus models, weather‑station data, DEMs, and Python analysis tools. Collaborated with international snow‑science experts through field exercises, workshops, and data‑viz projects.
+    image_path: /images/ssws_fieldwork.png
 
-  - title: "Point Lay Housing Damage Assessment"
-    links:
-      - text: "Gallery"
-        # url: "/images/point_lay_fieldwork.png"
+  - title: "Juneau Icefield Research Program (JIRP)"
+    dates:
+      start: "June 10 2024"
+      end:   "Aug. 9 2024"
     description: >
-      Summer 2023: Surveyed and geolocated housing damage in Point Lay, Alaska,
-      to quantify permafrost‑driven structural impacts on local communities.
-    image_path: /images/point_lay_fieldwork.png
+      Student, University of Alaska Southeast.  
+      Collected glacier mass‑balance and seismology data, ran a GPS survey on the Vaughan Lewis Icefall for ice‑flow velocimetry, and completed a 75‑mile (120 km) icefield traverse from Juneau, AK to Atlin, BC. Developed mountaineering skills—glacier travel, crevasse rescue, rope‑handling, and remote survival techniques.
+    image_path: /images/jirp_overview.png
+
+  - title: "Toolik Field Station"
+    dates:
+      start: "July 31 2023"
+      end:   "Aug. 10 2023"
+    description: >
+      Volunteer, Plant Biomass & Soils Research Assistant, University of Alaska Fairbanks.  
+      Identified 30+ arctic vascular and non‑vascular plant species (graminoids, forbs, shrubs) and deconstructed/sorted tundra quadrats for biomass, C/N analysis—linking vegetation changes to eddy‑covariance carbon‑flux measurements.
+    image_path: /images/toolik_fieldwork.png
+
+  - title: "United States Department of Energy (DOE)"
+    dates:
+      start: "Aug. 2021"
+      end:   "May 2022"
+    description: >
+      Science Undergraduate Laboratory Intern, Cold Climate Housing Research Center (CCHRC) at NREL.  
+      Documented and collected field data on housing issues resulting from permafrost thawing within the local community of Point Lay, Alaska.
+    image_path: /images/doe_cchrc_fieldwork.png
