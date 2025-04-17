@@ -1,0 +1,20 @@
+repos:
+
+  - title: "Juneau Icefield Research Program"
+    links:
+      - text: "Gallery"
+        # url: "/images/jirp_fieldwork.png"
+    description: >
+      Summer 2024: Participated in the Juneau Icefield Research Program in Alaska—
+      collected ice cores, ran stress–strain analyses on the Van Leuwen Ice Fall,
+      and mapped glacial movement patterns.
+    image_path: /images/jirp_fieldwork.png
+
+  - title: "Point Lay Housing Damage Assessment"
+    links:
+      - text: "Gallery"
+        # url: "/images/point_lay_fieldwork.png"
+    description: >
+      Summer 2023: Surveyed and geolocated housing damage in Point Lay, Alaska,
+      to quantify permafrost‑driven structural impacts on local communities.
+    image_path: /images/point_lay_fieldwork.png
