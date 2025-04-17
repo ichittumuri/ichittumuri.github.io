@@ -4,7 +4,7 @@ permalink: /fieldwork/
 author_profile: true
 classes: splash
 header:
-  overlay_image: https://ichittumuri.github.io/images/traverse.jpg
+  overlay_image: https://ichittumuri.github.io/images/traverse.jpeg
 ---
 
 <div>
