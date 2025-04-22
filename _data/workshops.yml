@@ -1,0 +1,19 @@
+repos:
+
+  - title: "Glacier and Machine Learning Summer School (GlaMacLeS)"
+    dates:
+      start: "June 14"
+      end:   "June 23 2025"
+    description: >
+      Attended the NSF-funded <a href="https://glamacles.github.io/" target="_blank">GlaMacLeS</a> held at the Taft-Nicholson Center in Southwest Montana. 
+      Explored the intersection of glaciology and machine learning through interactive lectures and hands-on projects. 
+      Topics included deep learning for remote sensing, Gaussian process emulation, and adjoint methods for glacier modeling.
+
+  - title: "NASA Earth Sciences & UW Hackweek"
+    dates:
+      start: "Aug. 19"
+      end:   "Aug. 23 2024"
+    description: >
+      Participated in the 2024 <a href="https://2024.hackweek.io/" target="_blank">NASA Hackweek</a> as a research collaborator in the GeoSMART track. 
+      Contributed to the “Crunchy Snow” project, developing machine learning models for snow depth retrieval using Sentinel‑1 SAR data. 
+      Focused on statistical error analysis and spatial autocorrelation via variograms to improve model accuracy and reliability.
