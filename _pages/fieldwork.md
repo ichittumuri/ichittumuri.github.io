@@ -1,5 +1,5 @@
 ---
-title: "Field Work"
+title: "Fieldwork"
 permalink: /fieldwork/
 author_profile: true
 classes: splash
