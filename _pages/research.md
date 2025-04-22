@@ -1,13 +1,13 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 classes: splash
 header:
     overlay_image: https://ichittumuri.github.io/images/gilkey_glacier.jpg
 ---
 
-{% for category in site.data.publications.categories %}
+{% for category in site.data.research.categories %}
   <h2>{{category.heading}}</h2>
   <ol>
   {% for paper in category.pubs %}
