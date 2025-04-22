@@ -5,8 +5,22 @@ author_profile: true
 classes: splash
 header:
     overlay_image: https://ichittumuri.github.io/images/nyc_sunset.jpeg
-
 ---
+
+<style>
+.thumb {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+#chartContainer {
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+</style>
 
 <div>
 	{% for repo in site.data.code.repos %}
@@ -39,4 +53,3 @@ header:
   </p>
 	{% endfor %}
 </div>
-		

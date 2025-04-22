@@ -7,7 +7,7 @@ repos:
     description: >
       Conducted snowpack fieldwork at Col du Lautaret, France as part of WSL‑SLF’s Snow Science Winter School, using tools like SnowMicroPen, DUFISSS, IceCube, and density cutters to measure penetration resistance, density, and specific surface area. 
       Processed and visualized snow and weather data with Crocus models, DEMs, and Python, while collaborating with international researchers during hands-on field exercises and data workshops.
-    image_path: /images/snow_school.png
+    image_path: /images/snow_school.jpeg
 
   - title: "Juneau Icefield Research Program (JIRP)"
     dates:
@@ -16,7 +16,7 @@ repos:
     description: >
       Participated in a research expedition on the Juneau Icefield, gathering glacier mass-balance and seismology data, conducting GPS-based ice-flow velocity surveys on the Vaughan Lewis Icefall, and completing a 75-mile traverse from Juneau, AK to Atlin, BC. 
       Developed technical expertise in glacier travel, crevasse rescue, ropework, and backcountry survival.
-    image_path: /images/jirp.png
+    image_path: /images/jirp.jpeg
 
   - title: "Toolik Field Station (TFS)"
     dates:
@@ -25,7 +25,7 @@ repos:
     description: >
       Supported plant biomass and soils research at the University of Alaska Fairbanks by identifying over 30 Arctic plant species and sorting tundra quadrats for biomass and carbon-to-nitrogen ratio analysis. 
       Contributed to studies linking vegetation composition to eddy-covariance carbon flux measurements.
-    image_path: /images/toolik.png
+    image_path: /images/toolik.jpeg
 
   - title: "National Renewable Energy Laboratory (NREL)"
     dates:
@@ -33,4 +33,4 @@ repos:
       end:   "Apr. 14 2022"
     description: >
       Contributed to research at NREL's Alaska Campus by documenting and collecting field data on housing impacts from permafrost thaw in the remote community of Point Lay, Alaska.
-    image_path: /images/point_lay.jepg
+    image_path: /images/point_lay.jpeg

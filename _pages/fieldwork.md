@@ -7,6 +7,21 @@ header:
   overlay_image: https://ichittumuri.github.io/images/traverse.jpeg
 ---
 
+<style>
+.thumb-container {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.thumb {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+</style>
+
 <div>
   {% for exp in site.data.fieldwork.repos %}
     <h2>{{ exp.title }}</h2>
