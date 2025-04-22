@@ -2,28 +2,28 @@ repos:
 
   - title: "Risk Analysis of Flowlines"
     links:
-      - text: "Code & Data"
+      - text: "Code"
         url: https://github.com/ichittumuri/SPE_Journal_Risk_Analysis_of_Flowlines
     description: GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
     image_path: /images/flowline_risk.png
 
   - title: "Snow Variability in Northeast Alaska"
     links:
-      - text: "Code & Data"
+      - text: "Code"
         url: https://github.com/ichittumuri/Evaluate-Snow-Variability-through-a-Climatological-Analysis-in-Northeast-Alaska
     description: Code and data used in <a href="https://ntrs.nasa.gov/citations/20230006051">Anderson et al., <em>NASA Technical Report</em>, (2023)</a>. This project evaluates snow variability in Northeast Alaska through remote sensing and climatological data analysis as part of the NASA DEVELOP program.
     image_path: /images/northeast_alaska_snow.png
 
   - title: "Hurricane Irma Impacts on Georgia Heirs' Property Owners"
     links:
-      - text: "Code & Data"
+      - text: "Code"
         url: https://github.com/ichittumuri/Evaluate-Impacts-of-Hurricane-Irma-on-Georgia-Heirs-Property-Owners
     description: Code and data used in <a href="https://ntrs.nasa.gov/citations/20230002491">Chittumuri et al., <em>NASA Technical Report</em>, (2022)</a>. This project examines the social vulnerability and storm impact patterns experienced by heirs' property owners in Georgia following Hurricane Irma, using geospatial and census-based data analysis.
     image_path: /images/georgia_heirs_property.png
 
   - title: "Establishment and Analysis of Baseline Electrical Data"
     links:
-      - text: "Code & Data"
+      - text: "Code"
         url: https://github.com/ichittumuri/Establishment-and-Analysis-of-Baseline-Electrical-Data
     description: This project established baseline conditions for energy use and greenhouse gas emissions for participants in the Thermalize Juneau initiative, supporting the city's goal of achieving 80% renewable energy for heating and transportation sectors by 2045.
     image_path: /images/baseline_electrical_data.png  
