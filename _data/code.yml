@@ -4,7 +4,7 @@ repos:
     links:
       - text: "Code"
         url: https://github.com/ichittumuri/SPE_Journal_Risk_Analysis_of_Flowlines
-    description: GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
+    description: Code and data used in <a href="https://arxiv.org/abs/2501.11213">Chittumuri et al., <em>arXiv preprint</em>, (2025)</a>. GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
     image_path: /images/flowline_risk.png
 
   - title: "Snow Variability in Northeast Alaska"
@@ -25,5 +25,5 @@ repos:
     links:
       - text: "Code"
         url: https://github.com/ichittumuri/Establishment-and-Analysis-of-Baseline-Electrical-Data
-    description: This project established baseline conditions for energy use and greenhouse gas emissions for participants in the Thermalize Juneau initiative, supporting the city's goal of achieving 80% renewable energy for heating and transportation sectors by 2045.
+    description: Code and data used in <a href="https://ichittumuri.github.io/files/Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf">Chittumuri, <em>SULI DOE Fall 2021 Intern Symposium</em>, (2021)</a>. This project established baseline conditions for energy use and greenhouse gas emissions for participants in the Thermalize Juneau initiative, supporting the city's goal of achieving 80% renewable energy for heating and transportation sectors by 2045.
     image_path: /images/baseline_electrical_data.png  
