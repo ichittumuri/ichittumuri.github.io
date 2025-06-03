@@ -32,3 +32,5 @@ I've collaborated with organizations like [NASA](https://appliedsciences.nasa.go
 Long-term, I’m passionate about working at the intersection of data science, environmental policy, and community engagement to help design evidence-based strategies for adapting to climate change. I hope to contribute to international efforts that empower vulnerable communities to build resilience in the face of a changing planet.
 
 Outside of research, I love tennis, swimming, and alpine adventures—and I’m always up for a good board game or book!
+
+[def]: https://us.fulbrightonline.org/countries/europe-and-eurasia/iceland/1804
