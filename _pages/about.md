@@ -25,7 +25,7 @@ About Me
 ------
 I'm currently a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at the Colorado School of Mines, where I use geospatial analysis, machine learning, and statistical modeling to tackle environmental and infrastructure challenges. My research focuses on risk analysis of oil and gas spills, snow and sea ice remote sensing, and climate adaptation strategies in cold regions.
 
-In 2025–2026, I’ll be heading to Iceland as a recipient of the [Fulbright Iceland NSF Arctic Research Award](https://tinyurl.com/44h6fprk). During this time, I’ll apply geospatial analysis and machine learning to assess climate risks in Hornafjörður, identifying vulnerable areas and supporting adaptation strategies for glacier-dependent communities.
+In 2025–2026, I’ll be heading to Iceland as a recipient of the [Fulbright Iceland NSF Arctic Research Award](https://us.fulbrightonline.org/countries/europe-and-eurasia/iceland/1804). During this time, I’ll apply geospatial analysis and machine learning to assess climate risks in Hornafjörður, identifying vulnerable areas and supporting adaptation strategies for glacier-dependent communities.
 
 I've collaborated with organizations like [NASA](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop), [NREL](https://www.nrel.gov/), and [ACEP](https://www.uaf.edu/acep/) on projects ranging from Arctic snow variability to renewable energy adoption. Fieldwork plays a central role in my career—I've collected glacier data with the Juneau Icefield Research Program, analyzed snowpack in the French Alps through the WSL-SLF Snow School, and participated in remote expeditions across Alaska’s tundra, rivers, and mountain terrain.
 
