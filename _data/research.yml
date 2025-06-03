@@ -1,111 +1,110 @@
 categories:
 
-#  - heading: "Preprints"
-#    pubs:
-
-#    - title: 
-#      authors:
-#      - 
-#      - 
-#      year: 2025
-#      venue: arXiv
-#      links:
-#        - text: Paper
-#         url: https://arxiv.org/abs/2501.11213
+  # - heading: "Preprints"
+  #   pubs:
+  #     - title: 
+  #       authors:
+  #         - 
+  #         - 
+  #       year: 2025
+  #       venue: arXiv
+  #       links:
+  #         - text: Paper
+  #           url: https://arxiv.org/abs/2501.11213
 
   - heading: "Refereed Papers"
     pubs: 
 
-    - title: Risk Analysis of Flowlines in the Oil and Gas Sector: A Geographic Information Systems and Machine Learning Approach
-      authors:
-      - Isabella Chittumuri
-      - Naif Alshehab
-      - Ryan J. Voss
-      - Logan L. Douglass
-      - Serveh Kamrava
-      - Yilin Fan
-      - Jennifer Miskimins
-      - Will Fleckenstein
-      - Scott Wheeler
-      - Soutir Bandyopadhyay
-      year: 2025
-      venue: SPE J. SPE-228286-PA
-      links:
-        - text: Paper
-          url: https://doi.org/10.2118/228286-PA
+      - title: Risk Analysis of Flowlines in the Oil and Gas Sector: A Geographic Information Systems and Machine Learning Approach
+        authors:
+          - Isabella Chittumuri
+          - Naif Alshehab
+          - Ryan J. Voss
+          - Logan L. Douglass
+          - Serveh Kamrava
+          - Yilin Fan
+          - Jennifer Miskimins
+          - Will Fleckenstein
+          - Scott Wheeler
+          - Soutir Bandyopadhyay
+        year: 2025
+        venue: SPE J. SPE-228286-PA
+        links:
+          - text: Paper
+            url: https://doi.org/10.2118/228286-PA
 
-    - title: Use of a Thermalize Campaign to Increase Community Resiliency in a Cold Climate
-      authors:
-      - Vanessa Stevens
-      - Dana Truffer-Moudra
-      - Rachel Dodd
-      - Nathan Wiltse
-      - Tom Marsik
-      - Isabella Chittumuri
-      - Jessica Biddle
-      - Vanessa Farley
-      year: 2023
-      venue: ASHRAE Topical Conference Proceedings
-      links:
-        - text: Paper
-          url: https://tinyurl.com/3hmcz8a8
+      - title: Use of a Thermalize Campaign to Increase Community Resiliency in a Cold Climate
+        authors:
+          - Vanessa Stevens
+          - Dana Truffer-Moudra
+          - Rachel Dodd
+          - Nathan Wiltse
+          - Tom Marsik
+          - Isabella Chittumuri
+          - Jessica Biddle
+          - Vanessa Farley
+        year: 2023
+        venue: ASHRAE Topical Conference Proceedings
+        links:
+          - text: Paper
+            url: https://tinyurl.com/3hmcz8a8
 
-    - title: Air Source Heat Pumps in Very Cold Climates
-      authors:
-      - Tom Marsik
-      - Vanessa Stevens
-      - Robbin Garber-Slaght
-      - Conor Dennehy
-      - Robby Tartuilnguq Strunk
-      - Isabella Chittumuri
-      - Tracy Sehmel
-      year: 2023
-      venue: ASHRAE Topical Conference Proceedings
-      links:
-        - text: Paper
-          url: https://tinyurl.com/yrtbber8
+      - title: Air Source Heat Pumps in Very Cold Climates
+        authors:
+          - Tom Marsik
+          - Vanessa Stevens
+          - Robbin Garber-Slaght
+          - Conor Dennehy
+          - Robby Tartuilnguq Strunk
+          - Isabella Chittumuri
+          - Tracy Sehmel
+        year: 2023
+        venue: ASHRAE Topical Conference Proceedings
+        links:
+          - text: Paper
+            url: https://tinyurl.com/yrtbber8
 
   - heading: "Non-Refereed Papers and Articles"
     pubs: 
 
-    - title: Using Earth Observations to Evaluate Snow Variability through a Climatological Analysis to Support Ecological Monitoring in Northeast Alaska
-      authors:
-      - Kristin Anderson
-      - Omeed Arooji
-      - Isabella Chittumuri
-      - Thomas Germann
-      year: 2023
-      venue: NASA DEVELOP Spring 2023  Closeout Presentations
-      links:
-        - text: Paper
-          url: https://ntrs.nasa.gov/citations/20230006051
-        - text: Poster
-          url: https://ichittumuri.github.io/files/Evaluate_Snow_Variability_through_Climatological_Analysis_in_Northeast_Alaska.pdf
+      - title: Using Earth Observations to Evaluate Snow Variability through a Climatological Analysis to Support Ecological Monitoring in Northeast Alaska
+        authors:
+          - Kristin Anderson
+          - Omeed Arooji
+          - Isabella Chittumuri
+          - Thomas Germann
+        year: 2023
+        venue: NASA DEVELOP Spring 2023  Closeout Presentations
+        links:
+          - text: Paper
+            url: https://ntrs.nasa.gov/citations/20230006051
+          - text: Poster
+            url: https://ichittumuri.github.io/files/Evaluate_Snow_Variability_through_Climatological_Analysis_in_Northeast_Alaska.pdf
 
-    - title: Evaluating the Impacts of Hurricane Irma on Georgia Heirs’ Property Owners Using NASA Earth Observations
-      authors:
-      - Isabella Chittumuri
-      - Shakirah Rogers
-      - Nathan Tesfayi
-      - Nancee Uniyal
-      year: 2022
-      venue: NASA DEVELOP Fall 2022  Closeout Presentations
-      links:
-        - text: Paper
-          url: https://ntrs.nasa.gov/citations/20230002491
-        - text: Poster
-          url: https://ichittumuri.github.io/files/Evaluated_the_Impacts_of_Hurricane_Irma_on_Georgia_Heir_Property_Owners.pdf
+      - title: Evaluating the Impacts of Hurricane Irma on Georgia Heirs’ Property Owners Using NASA Earth Observations
+        authors:
+          - Isabella Chittumuri
+          - Shakirah Rogers
+          - Nathan Tesfayi
+          - Nancee Uniyal
+        year: 2022
+        venue: NASA DEVELOP Fall 2022  Closeout Presentations
+        links:
+          - text: Paper
+            url: https://ntrs.nasa.gov/citations/20230002491
+          - text: Poster
+            url: https://ichittumuri.github.io/files/Evaluated_the_Impacts_of_Hurricane_Irma_on_Georgia_Heir_Property_Owners.pdf
 
-    - title: Establishment and Analysis of Baseline Electrical Data for Thermalize Juneau 2021 Campaign
-      authors: 
-      - Isabella Chittumuri
-      - Vanessa Stevens
-      - Nathan Wiltse
-      - Tom Marsik
-      year: 2021
-      venue: DOE Fall 2021 Intern Poster Symposium
-      links: 
-        - text: Paper
-          url: https://ichittumuri.github.io/files/Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
-        - text: Poster
-          url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of Baseline_Electrical_Data.pdf
+      - title: Establishment and Analysis of Baseline Electrical Data for Thermalize Juneau 2021 Campaign
+        authors: 
+          - Isabella Chittumuri
+          - Vanessa Stevens
+          - Nathan Wiltse
+          - Tom Marsik
+        year: 2021
+        venue: DOE Fall 2021 Intern Poster Symposium
+        links: 
+          - text: Paper
+            url: https://ichittumuri.github.io/files/Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
+          - text: Poster
+            url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of Baseline_Electrical_Data.pdf
