@@ -1,8 +1,8 @@
 categories:
 
   - heading: "Preprints"
-    pubs:
-    # (No entries here anymore, since the paper has been accepted.)
+    pubs: 
+      # (No entries here since the Risk Analysis paper has moved to Refereed Papers)
 
   - heading: "Refereed Papers"
     pubs: 
@@ -20,7 +20,7 @@ categories:
       - Scott Wheeler
       - Soutir Bandyopadhyay
       year: 2025
-      venue: SPE Journal (in press)
+      venue: SPE J. SPE-228286-PA (in press; posted 23 May 2025)
       links:
         - text: DOI
           url: https://doi.org/10.2118/228286-PA
@@ -66,7 +66,7 @@ categories:
       - Isabella Chittumuri
       - Thomas Germann
       year: 2023
-      venue: NASA DEVELOP Spring 2023  Closeout Presentations
+      venue: NASA DEVELOP Spring 2023 Closeout Presentations
       links:
         - text: Paper
           url: https://ntrs.nasa.gov/citations/20230006051
@@ -80,7 +80,7 @@ categories:
       - Nathan Tesfayi
       - Nancee Uniyal
       year: 2022
-      venue: NASA DEVELOP Fall 2022  Closeout Presentations
+      venue: NASA DEVELOP Fall 2022 Closeout Presentations
       links:
         - text: Paper
           url: https://ntrs.nasa.gov/citations/20230002491
@@ -99,4 +99,4 @@ categories:
         - text: Paper
           url: https://ichittumuri.github.io/files/Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
         - text: Poster
-          url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
+          url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of%20Baseline_Electrical_Data.pdf
