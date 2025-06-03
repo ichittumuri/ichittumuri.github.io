@@ -2,8 +2,12 @@ categories:
 
   - heading: "Preprints"
     pubs:
+    # (No entries here anymore, since the paper has been accepted.)
 
-    - title: ECMC Risk Analysis of Flowlines in the Oil and Gas Sector- A GIS and Machine Learning Approach
+  - heading: "Refereed Papers"
+    pubs: 
+
+    - title: Risk Analysis of Flowlines in the Oil and Gas Sector: A Geographic Information Systems and Machine Learning Approach
       authors:
       - Isabella Chittumuri
       - Naif Alshehab
@@ -16,13 +20,10 @@ categories:
       - Scott Wheeler
       - Soutir Bandyopadhyay
       year: 2025
-      venue: arXiv
+      venue: SPE Journal (in press)
       links:
-        - text: Paper
-          url: https://arxiv.org/abs/2501.11213
-
-  - heading: "Refereed Papers"
-    pubs: 
+        - text: DOI
+          url: https://doi.org/10.2118/228286-PA
 
     - title: Use of a Thermalize Campaign to Increase Community Resiliency in a Cold Climate
       authors:
@@ -98,4 +99,4 @@ categories:
         - text: Paper
           url: https://ichittumuri.github.io/files/Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
         - text: Poster
-          url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of Baseline_Electrical_Data.pdf
+          url: https://ichittumuri.github.io/files/Poster_Establishment_and_Analysis_of_Baseline_Electrical_Data.pdf
