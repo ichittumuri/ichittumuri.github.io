@@ -1,26 +1,5 @@
 categories:
 
-  - heading: "Preprints"
-    pubs:
-
-    - title: ECMC Risk Analysis of Flowlines in the Oil and Gas Sector- A GIS and Machine Learning Approach
-      authors:
-      - Isabella Chittumuri
-      - Naif Alshehab
-      - Ryan J. Voss
-      - Logan L. Douglass
-      - Serveh Kamrava
-      - Yilin Fan
-      - Jennifer Miskimins
-      - Will Fleckenstein
-      - Scott Wheeler
-      - Soutir Bandyopadhyay
-      year: 2025
-      venue: Society of Petroleum Engineers (SPE) Journal
-      links:
-        - text: Paper
-          url: https://doi.org/10.2118/228286-PA
-
   - heading: "Refereed Papers"
     pubs: 
 
