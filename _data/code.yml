@@ -4,7 +4,7 @@ repos:
     links:
       - text: "Code"
         url: https://github.com/ichittumuri/SPE_Journal_Risk_Analysis_of_Flowlines
-    description: Code and data used in <a href="https://arxiv.org/abs/2501.11213">Chittumuri et al., <em>arXiv preprint</em>, (2025)</a>. GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
+    description: Code and data used in <a href="https://doi.org/10.2118/228286-PA">Chittumuri et al., <em>SPE Journal</em>, (2025)</a>. GIS and machine learning pipeline for identifying high-risk oil and gas flowlines in Colorado. Includes spatial feature engineering, dimensionality reduction (PCA/CCA), and model evaluation.
     image_path: /images/flowline_risk.png
 
   - title: "Snow Variability in Northeast Alaska"
