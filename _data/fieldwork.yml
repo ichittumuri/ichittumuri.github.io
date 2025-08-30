@@ -5,7 +5,7 @@ repos:
       start: "Feb. 23 2025"
       end:   "Mar. 1 2025"
     description: >
-      Conducted snowpack fieldwork at Col du Lautaret, France as part of WSL‑SLF’s Snow Science Winter School, using tools like SnowMicroPen, DUFISSS, IceCube, and density cutters to measure penetration resistance, density, and specific surface area. 
+      Conducted snowpack fieldwork at Col du Lautaret, France as part of <a href="https://www.slf.ch/en/" target="_blank">WSL‑SLF</a>’s Snow Science Winter School, using tools like SnowMicroPen, DUFISSS, IceCube, and density cutters to measure penetration resistance, density, and specific surface area. 
       Processed and visualized snow and weather data with Crocus models, DEMs, and Python, while collaborating with international researchers during hands-on field exercises and data workshops.
     image_path: /images/snow_school.jpeg
 
@@ -14,7 +14,7 @@ repos:
       start: "June 10 2024"
       end:   "Aug. 9 2024"
     description: >
-      Participated in a research expedition on the Juneau Icefield, gathering glacier mass-balance and seismology data, conducting GPS-based ice-flow velocity surveys on the Vaughan Lewis Icefall, and completing a 75-mile traverse from Juneau, AK to Atlin, BC. 
+      Participated in a expedition with <a href="https://juneauicefield.org/" target="_blank">JIRP</a>, gathering glacier mass-balance and seismology data, conducting GPS-based ice-flow velocity surveys on the Vaughan Lewis Icefall, and completing a 75-mile traverse from Juneau, AK to Atlin, BC. 
       Developed technical experience in glacier travel, crevasse rescue, ropework, and backcountry survival.
     image_path: /images/jirp.jpeg
 
@@ -23,7 +23,7 @@ repos:
       start: "July 31 2023"
       end:   "Aug. 10 2023"
     description: >
-      Supported plant biomass and soils research at the University of Alaska Fairbanks by identifying over 30 Arctic plant species and sorting tundra quadrats for biomass and carbon-to-nitrogen ratio analysis. 
+      Supported plant biomass and soils research at the University of Alaska Fairbanks' <a href="https://toolik.alaska.edu/" target="_blank">TFS</a> by identifying over 30 Arctic plant species and sorting tundra quadrats for biomass and carbon-to-nitrogen ratio analysis. 
       Contributed to studies linking vegetation composition to eddy-covariance carbon flux measurements.
     image_path: /images/toolik.jpeg
 
@@ -32,5 +32,5 @@ repos:
       start: "Apr. 10 2022"
       end:   "Apr. 14 2022"
     description: >
-      Contributed to research at NREL's Alaska Campus by documenting and collecting field data on housing impacts from permafrost thaw in the remote community of Point Lay, Alaska.
+      Contributed to research at <a href="https://www.nrel.gov/about/alaska" target="_blank">NREL</a>'s Alaska Campus by documenting and collecting field data on housing impacts from permafrost thaw in the remote community of Point Lay, Alaska.
     image_path: /images/point_lay.jpeg
