@@ -27,7 +27,7 @@ header:
     <h2>{{ exp.title }}</h2>
 
     {% if exp.dates %}
-      <p><strong>{{ exp.dates.start }} — {{ exp.dates.end }}</strong></p>
+      <p><strong>{{ exp.dates.start }} — {{ exp.dates.end }}</strong></p>
     {% endif %}
 
     {% if exp.image_path %}
@@ -40,7 +40,7 @@ header:
       </div>
     {% endif %}
 
-    <p>{{ exp.description | markdownify }}</p>
+    {{ exp.description | markdownify }}
     <hr>
   {% endfor %}
 </div>
