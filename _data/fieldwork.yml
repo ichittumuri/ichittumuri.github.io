@@ -1,5 +1,14 @@
 repos:
 
+  - title: "Langjökull Glacier Paleomagnetism Fieldwork"
+    dates:
+      start: "Sep. 10 2025"
+      end:   "Sep. 17 2025"
+    description: >
+      Supported paleomagnetic sampling of 15 lava flows in the Langjökull region with the <a href="https://english.hi.is/" target="_blank">University of Iceland (HÍ)</a>, using a portable drill, 
+      orienting fixture, and Brunton compass for age-dating analysis. Assisted with field logistics including 4x4 travel on F-roads and river crossings.
+    image_path: /images/langjokull.jpeg
+
   - title: "Institute for Snow and Avalanche Research (WSL‑SLF)"
     dates:
       start: "Feb. 23 2025"
