@@ -17,7 +17,7 @@ CV
 
 Education
 ------
-Ph.D. Applied Mathematics and Statistics, Colorado School of Mines, Expected 2026 \\
+Ph.D. Applied Mathematics and Statistics, Colorado School of Mines, Expected 2027 \\
 M.A. Applied Mathematics and Statistics, Hunter College, City University of New York, 2022 \\
 B.A. Statistics, Hunter College, City University of New York, 2020 
 
