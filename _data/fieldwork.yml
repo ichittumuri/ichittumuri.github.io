@@ -1,5 +1,15 @@
 repos:
 
+  - title: "JÖRFÍ Spring Expedition (Icelandic Glaciological Society)"
+    dates:
+      start: "May 31 2026"
+      end:   "Jun. 5 2026"
+    description: >
+      Participated in the annual spring expedition of the <a href="https://jorfi.is/" target="_blank">Icelandic Glaciological Society (JÖRFÍ)</a>, supporting camp logistics and multidisciplinary field research across Vatnajökull. 
+      Gained experience operating snowmobiles in glacier terrain, including transporting personnel and towing scientific equipment between remote field sites.
+      Contributed to cryosphere fieldwork involving glacier mass-balance coring, microplastic sampling, geothermal gas measurements, drone surveys, and seismic station deployment.    
+      image_path: /images/jorfi_2026.jpg
+  
   - title: "Langjökull Glacier Paleomagnetism Fieldwork"
     dates:
       start: "Sep. 10 2025"
