@@ -39,3 +39,64 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+
+/* Oval profile picture */
+.author__avatar img {
+  width: 175px;
+  height: 215px;
+  max-width: none;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+
+/* Automatic dark mode */
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: #181818;
+    color: #e6e6e6;
+  }
+
+  #main,
+  .masthead,
+  .greedy-nav,
+  .page,
+  .archive,
+  .sidebar {
+    background-color: #181818;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .page__title,
+  .archive__item-title,
+  .author__name,
+  .author__bio,
+  .author__urls a,
+  .greedy-nav a {
+    color: #e6e6e6;
+  }
+
+  a {
+    color: #8ec5ff;
+  }
+
+  .author__urls {
+    background-color: #181818;
+  }
+
+  .page__footer {
+    background-color: #111;
+    color: #e6e6e6;
+  }
+}
