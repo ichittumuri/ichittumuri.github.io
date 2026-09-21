@@ -1,15 +1,15 @@
 repos:
 
- - title: "Glaciovolcanism and Hazards at Mount Rainier"
+  - title: "Glaciovolcanism and Hazards at Mount Rainier"
     dates:
       start: "Sep. 13"
-      end:   "Sep. 18 2026"
+      end: "Sep. 18 2026"
     description: >
       Participated in a field-based workshop at Mount Rainier organized by the IAVCEI/IACS Volcano-Ice Interactions Commission.
       Explored volcano–ice interactions, glaciation, and volcanic hazards through field observations following the
       <a href="https://pubs.usgs.gov/publication/sir20175022A" target="_blank">USGS Mount Rainier field guide</a>.
-      Investigated lava--ice interactions, hydrothermal alteration, lahars, and glacial history through field observations with scientists across various displines
-
+      Investigated lava–ice interactions, hydrothermal alteration, lahars, and glacial history through field observations with scientists across various disciplines.
+      
   - title: "Glacier and Machine Learning Summer School (GlaMacLeS)"
     dates:
       start: "June 14"
